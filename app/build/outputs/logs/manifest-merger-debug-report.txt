@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/087cb7468a9b049287c0caf549e872d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/617397e82d4e1463275c3562baf56b88/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6a839d3bb384617186a9626eed453e44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2b3c6fd55cb6bf55b2591d7304e43834/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/489010f147f290707dd0de3f4e33f51e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c1a9762e3fe50d211abc3b4cef0f8e9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2fe4c05f8b7dfe971b1d678e55255892/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ee10197b368fd74f7281169e5e895f6d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/26d1e9e88705960fd5b526c8641c91fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9d477a0589126ab4be54d036eee027a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fe821e1616a728cbd76cfd76f241c47a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8012be674cbde0b817d6cd0608ab066b/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/617397e82d4e1463275c3562baf56b88/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/617397e82d4e1463275c3562baf56b88/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.turnkeygarages.activity.MainActivity
+ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/087cb7468a9b049287c0caf549e872d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/087cb7468a9b049287c0caf549e872d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/617397e82d4e1463275c3562baf56b88/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jana/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/617397e82d4e1463275c3562baf56b88/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6a839d3bb384617186a9626eed453e44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6a839d3bb384617186a9626eed453e44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2b3c6fd55cb6bf55b2591d7304e43834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2b3c6fd55cb6bf55b2591d7304e43834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/489010f147f290707dd0de3f4e33f51e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/489010f147f290707dd0de3f4e33f51e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c1a9762e3fe50d211abc3b4cef0f8e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c1a9762e3fe50d211abc3b4cef0f8e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2fe4c05f8b7dfe971b1d678e55255892/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2fe4c05f8b7dfe971b1d678e55255892/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ee10197b368fd74f7281169e5e895f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/jana/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ee10197b368fd74f7281169e5e895f6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/26d1e9e88705960fd5b526c8641c91fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/26d1e9e88705960fd5b526c8641c91fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9d477a0589126ab4be54d036eee027a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/9d477a0589126ab4be54d036eee027a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fe821e1616a728cbd76cfd76f241c47a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fe821e1616a728cbd76cfd76f241c47a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8012be674cbde0b817d6cd0608ab066b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/jana/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8012be674cbde0b817d6cd0608ab066b/AndroidManifest.xml:20:5-44
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+		ADDED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jana/Desktop/android prechodny/AndroidStudioProjects/TurnKeyGarages/app/src/main/AndroidManifest.xml

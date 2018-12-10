@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".activity.MainActivity"
     android:background="@color/background">
 
     <ImageView
@@ -21,7 +21,7 @@
         android:paddingTop="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Turn Key Garages"
+        android:text="@string/app_name"
         android:textAppearance="@android:style/TextAppearance.Large"
         android:textAllCaps="true"
         android:textStyle="bold"
@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/caption"
-        android:text="Protect your vehicle \nfrom bad weather situations"
+        android:text="@string/slogan"
         android:textSize="16dp"
         android:textColor="#000000"/>
 
@@ -65,7 +65,7 @@
                     android:layout_height="wrap_content"
                     android:paddingLeft="12dp"
                     android:lineSpacingExtra="4dp"
-                    android:text="Turn Key Garages \nNam.S.H.Vajanskeho 2 \n036 01 Martin"
+                    android:text="@string/business_address"
                     android:textSize="16dp"/>
                 />
 
@@ -87,7 +87,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:paddingLeft="12dp"
-                    android:text="0903 18 18 18"
+                    android:text="@string/phone"
                     android:textSize="16dp"/>
 
             </LinearLayout>
@@ -107,7 +107,7 @@
                     android:paddingLeft="16dp"
                     android:paddingRight="16dp"
                     android:paddingTop="8dp"
-                    android:text="\n info@turnkeygarages.sk"
+                    android:text="@string/button_email"
                     android:fontFamily="monospace"
                     android:textAllCaps="false"></Button>
             </LinearLayout>
