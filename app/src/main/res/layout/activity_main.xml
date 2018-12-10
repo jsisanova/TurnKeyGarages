@@ -67,7 +67,6 @@
                     android:lineSpacingExtra="4dp"
                     android:text="@string/business_address"
                     android:textSize="16dp"/>
-                />
 
             </LinearLayout>
 
@@ -109,7 +108,7 @@
                     android:paddingTop="8dp"
                     android:text="@string/button_email"
                     android:fontFamily="monospace"
-                    android:textAllCaps="false"></Button>
+                    android:textAllCaps="false"/>
             </LinearLayout>
 
 
