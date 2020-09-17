@@ -865,10 +865,13 @@ int string abc_toolbar_collapse_description 0x7f0b001c
 int string app_name 0x7f0b001d
 int string business_address 0x7f0b001e
 int string button_email 0x7f0b001f
-int string phone 0x7f0b0020
-int string search_menu_title 0x7f0b0021
-int string slogan 0x7f0b0022
-int string status_bar_notification_info_overflow 0x7f0b0023
+int string main_image 0x7f0b0020
+int string phone 0x7f0b0021
+int string phone_icon 0x7f0b0022
+int string place_icon 0x7f0b0023
+int string search_menu_title 0x7f0b0024
+int string slogan 0x7f0b0025
+int string status_bar_notification_info_overflow 0x7f0b0026
 int style AlertDialog_AppCompat 0x7f0c0000
 int style AlertDialog_AppCompat_Light 0x7f0c0001
 int style Animation_AppCompat_Dialog 0x7f0c0002

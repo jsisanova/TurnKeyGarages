@@ -4,4 +4,7 @@
     <string name="business_address">Turn Key Garages \nNam.S.H.Vajanskeho 2 \n036 01 Martin</string>
     <string name="phone">0903 18 18 18</string>
     <string name="button_email">\n info@turnkeygarages.sk</string>
+    <string name="main_image">Main image with garage</string>
+    <string name="place_icon">place icon</string>
+    <string name="phone_icon">phone icon</string>
 </resources>

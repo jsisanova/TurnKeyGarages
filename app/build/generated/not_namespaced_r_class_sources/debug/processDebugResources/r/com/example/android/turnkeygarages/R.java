@@ -1685,7 +1685,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td></td></tr>
+     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>
@@ -3170,10 +3170,13 @@ public final class R {
     public static final int app_name=0x7f0b001d;
     public static final int business_address=0x7f0b001e;
     public static final int button_email=0x7f0b001f;
-    public static final int phone=0x7f0b0020;
-    public static final int search_menu_title=0x7f0b0021;
-    public static final int slogan=0x7f0b0022;
-    public static final int status_bar_notification_info_overflow=0x7f0b0023;
+    public static final int main_image=0x7f0b0020;
+    public static final int phone=0x7f0b0021;
+    public static final int phone_icon=0x7f0b0022;
+    public static final int place_icon=0x7f0b0023;
+    public static final int search_menu_title=0x7f0b0024;
+    public static final int slogan=0x7f0b0025;
+    public static final int status_bar_notification_info_overflow=0x7f0b0026;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f0c0000;
@@ -7628,7 +7631,7 @@ public final class R {
      * <tr><td>barrier</td><td>2</td><td></td></tr>
      * <tr><td>chains</td><td>4</td><td></td></tr>
      * <tr><td>dimensions</td><td>8</td><td></td></tr>
-     * <tr><td>direct</td><td>1</td><td></td></tr>
+     * <tr><td>direct</td><td>1</td><td>direct, barriers, chains</td></tr>
      * <tr><td>groups</td><td>20</td><td></td></tr>
      * <tr><td>none</td><td>0</td><td></td></tr>
      * <tr><td>standard</td><td>7</td><td></td></tr>

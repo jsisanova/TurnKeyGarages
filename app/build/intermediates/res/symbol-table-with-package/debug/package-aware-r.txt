@@ -866,7 +866,10 @@ string abc_toolbar_collapse_description
 string app_name
 string business_address
 string button_email
+string main_image
 string phone
+string phone_icon
+string place_icon
 string search_menu_title
 string slogan
 string status_bar_notification_info_overflow
